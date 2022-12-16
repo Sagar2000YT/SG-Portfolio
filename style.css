@@ -329,3 +329,7 @@ left: 50%;
     outline: 0;
     box-shadow: none;
 }
+
+.footer_wrapper li{
+    padding: 0 1rem;
+}
